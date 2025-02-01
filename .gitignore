@@ -1,0 +1,22 @@
+# Login & Signup Form with Bootstrap
+
+## Overview
+This project is a simple Login and Signup Form built using HTML, CSS, Bootstrap, and JavaScript.
+ The form includes a modern UI with icons, password visibility toggle, and smooth transitions between login and signup sections.
+
+## Features
+- Responsive Design: Fully responsive using Bootstrap.
+- Login & Signup Forms: Two separate forms for authentication.
+- Password Toggle: Users can show/hide passwords.
+- Remember Me Option: Checkbox for remembering user credentials.
+- Form Transitions: JavaScript-based toggle between Login and Signup forms.
+- FontAwesome Icons: Used for email, password, and visibility toggle.
+
+## Technologies Used
+- HTML: Structure of the form
+- CSS: Styling for better UI
+- Bootstrap 5: For responsive layout and components
+- FontAwesome: Icons for inputs
+- JavaScript: Toggle functionality for form switching
+
+
